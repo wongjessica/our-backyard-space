@@ -7,29 +7,29 @@ handlers:
   static_files: www/index.html
   upload: www/index.html
 
-- url: /helpbot
-  static_files: www/helpbot/helpbot.html
-  upload: www/helpbot/helpbot.html
+- url: /about
+  static_files: www/about/about.html
+  upload: www/about/about.html
 
-- url: /bliss
-  static_files: www/bliss/bliss.html
-  upload: www/bliss/bliss.html
+- url: /gallery
+  static_files: www/gallery/gallery.html
+  upload: www/gallery/gallery.html
 
-- url: /helpbot/helpbot.html
-  static_files: www/helpbot/helpbot.html
-  upload: www/helpbot/helpbot.html
+- url: /about/about.html
+  static_files: www/about/about.html
+  upload: www/about/about.html
 
-- url: /bliss/bliss.html
-  static_files: www/bliss/bliss.html
-  upload: www/bliss/bliss.html
+- url: /gallery/gallery.html
+  static_files: www/gallery/gallery.html
+  upload: www/gallery/gallery.html
 
-- url: /helpbot.html
-  static_files: www/helpbot/helpbot.html
-  upload: www/helpbot/helpbot.html
+- url: /about.html
+  static_files: www/about.html
+  upload: www/about.html
 
-- url: /bliss.html
-  static_files: www/bliss/bliss.html
-  upload: www/bliss/bliss.html
+- url: /gallery.html
+  static_files: www/gallery.html
+  upload: www/gallery.html
   
 - url: /(.*)
   static_files: www/\1

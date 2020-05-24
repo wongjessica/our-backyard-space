@@ -66,6 +66,18 @@ header.yoo {
   background-size: cover;
 }
 
+header.yooh {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(2rem + 32px);
+  padding-bottom: 7rem;
+  background: linear-gradient(0deg, #01DF3A 0%, #00BFFF 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 header.masthead {
   position: relative;
   overflow: hidden;
