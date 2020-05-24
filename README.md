@@ -26,8 +26,5 @@ I learned a lot of things along the way, not only did I learn a lot about the te
 
 ## What's next for our backyard space
 
-<<<<<<< HEAD
 I hope to complete my MVPs soon! I am proud of what I was able to accomplish in this short amount of time. I hope you all like this project! I had a lot of fun working on it!
-=======
-I hope to complete my MVPs soon! I am proud of what I was able to accomplish in this short amount of time. I hope you all like this project! I had a lot of fun working on it!
->>>>>>> dfddc99f6fd40f27a48c4b17dafd11a7a5a1a0a4
+
