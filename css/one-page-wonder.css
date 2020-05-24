@@ -54,6 +54,18 @@ h6 {
   letter-spacing: 0.1rem;
 }
 
+header.yoo {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(2rem + 42px);
+  padding-bottom: 7rem;
+  background: linear-gradient(0deg, #01DF3A 0%, #00BFFF 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 header.masthead {
   position: relative;
   overflow: hidden;
